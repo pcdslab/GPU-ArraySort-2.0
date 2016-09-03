@@ -21,7 +21,7 @@ This code has been tested on Tesla K-40c GPU by NVIDIA on a server running Ubunt
 CUDA 7.5 and gcc version 4.8.
 
 
-If you use GPU-ArraySort, please site our work using :
+If you use GPU-ArraySort, please cite our work using :
 
 Bibtex:
 
