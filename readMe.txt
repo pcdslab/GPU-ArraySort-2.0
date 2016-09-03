@@ -33,4 +33,11 @@ Bibtex:
   year={2016}
 }
 
+MLA:
+Awan, Muaaz, and Fahad Saeed. "GPU-ArraySort: A parallel, in-place algorithm for sorting large number of arrays.",
+Proceedings of Workshop on High Performance Computing for Big Data, International Conference on Parallel Processing 
+(ICPP-2016), Philadelphia PA, (2016).
+
+
+
 
